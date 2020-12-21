@@ -21,7 +21,7 @@
   <!-- <node pkg="unity_sw_mapping" type="unity_feature" name="unity_feature" output="screen"/> -->
 
 	<param name="scan_line" type="int" value="16" />
-	<param name="minimum_range" type="double" value="0.3"/>
+	<param name="minimum_range" type="double" value="1.5"/>
 	<node pkg="balm" type="velodyne_feature" name="velodyne_feature"/>
 
 	<param name="root_surf_voxel_size" type="double" value="1"/>

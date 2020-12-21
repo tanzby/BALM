@@ -38,9 +38,7 @@
 #include <cmath>
 #include <vector>
 #include <string>
-// #include "aloam_velodyne/tic_toc.h"
 #include <nav_msgs/Odometry.h>
-// #include <opencv/cv.h>
 #include <pcl_conversions/pcl_conversions.h>
 #include <pcl/point_cloud.h>
 #include <pcl/point_types.h>
